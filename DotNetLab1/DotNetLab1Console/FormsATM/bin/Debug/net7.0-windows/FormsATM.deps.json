@@ -1,0 +1,65 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "FormsATM/1.0.0": {
+        "dependencies": {
+          "Account": "1.0.0",
+          "AutomatedTellerMachine": "1.0.0",
+          "Bank": "1.0.0"
+        },
+        "runtime": {
+          "FormsATM.dll": {}
+        }
+      },
+      "Account/1.0.0": {
+        "runtime": {
+          "Account.dll": {}
+        }
+      },
+      "AutomatedTellerMachine/1.0.0": {
+        "dependencies": {
+          "Account": "1.0.0"
+        },
+        "runtime": {
+          "AutomatedTellerMachine.dll": {}
+        }
+      },
+      "Bank/1.0.0": {
+        "dependencies": {
+          "Account": "1.0.0",
+          "AutomatedTellerMachine": "1.0.0"
+        },
+        "runtime": {
+          "Bank.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FormsATM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Account/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AutomatedTellerMachine/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Bank/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

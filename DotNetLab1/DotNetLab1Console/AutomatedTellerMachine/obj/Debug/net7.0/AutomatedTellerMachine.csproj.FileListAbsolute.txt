@@ -1,0 +1,15 @@
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\Lab1\DotNetLab1\DotNetLab1Console\AutomatedTellerMachine\bin\Debug\net7.0\AutomatedTellerMachine.deps.json
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\Lab1\DotNetLab1\DotNetLab1Console\AutomatedTellerMachine\bin\Debug\net7.0\AutomatedTellerMachine.dll
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\Lab1\DotNetLab1\DotNetLab1Console\AutomatedTellerMachine\bin\Debug\net7.0\AutomatedTellerMachine.pdb
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\Lab1\DotNetLab1\DotNetLab1Console\AutomatedTellerMachine\obj\Debug\net7.0\AutomatedTellerMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\Lab1\DotNetLab1\DotNetLab1Console\AutomatedTellerMachine\obj\Debug\net7.0\AutomatedTellerMachine.AssemblyInfoInputs.cache
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\Lab1\DotNetLab1\DotNetLab1Console\AutomatedTellerMachine\obj\Debug\net7.0\AutomatedTellerMachine.AssemblyInfo.cs
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\Lab1\DotNetLab1\DotNetLab1Console\AutomatedTellerMachine\obj\Debug\net7.0\AutomatedTellerMachine.csproj.CoreCompileInputs.cache
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\Lab1\DotNetLab1\DotNetLab1Console\AutomatedTellerMachine\obj\Debug\net7.0\AutomatedTellerMachine.dll
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\Lab1\DotNetLab1\DotNetLab1Console\AutomatedTellerMachine\obj\Debug\net7.0\refint\AutomatedTellerMachine.dll
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\Lab1\DotNetLab1\DotNetLab1Console\AutomatedTellerMachine\obj\Debug\net7.0\AutomatedTellerMachine.pdb
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\Lab1\DotNetLab1\DotNetLab1Console\AutomatedTellerMachine\obj\Debug\net7.0\ref\AutomatedTellerMachine.dll
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\Lab1\DotNetLab1\DotNetLab1Console\AutomatedTellerMachine\bin\Debug\net7.0\Account.dll
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\Lab1\DotNetLab1\DotNetLab1Console\AutomatedTellerMachine\bin\Debug\net7.0\Account.pdb
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\Lab1\DotNetLab1\DotNetLab1Console\AutomatedTellerMachine\obj\Debug\net7.0\AutomatedTellerMachine.csproj.AssemblyReference.cache
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\Lab1\DotNetLab1\DotNetLab1Console\AutomatedTellerMachine\obj\Debug\net7.0\AutomatedTellerMachine.csproj.CopyComplete

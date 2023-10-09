@@ -1,0 +1,69 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "DotNetLab1Console/1.0.0": {
+        "dependencies": {
+          "Account": "1.0.0",
+          "AutomatedTellerMachine": "1.0.0",
+          "Bank": "1.0.0",
+          "Account.Reference": "1.0.0.0",
+          "Bank.Reference": "1.0.0.0"
+        },
+        "runtime": {
+          "DotNetLab1Console.dll": {}
+        }
+      },
+      "AutomatedTellerMachine/1.0.0": {
+        "dependencies": {
+          "Account": "1.0.0"
+        },
+        "runtime": {
+          "AutomatedTellerMachine.dll": {}
+        }
+      },
+      "Account.Reference/1.0.0.0": {
+        "runtime": {
+          "Account.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Bank.Reference/1.0.0.0": {
+        "runtime": {
+          "Bank.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DotNetLab1Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AutomatedTellerMachine/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Account.Reference/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Bank.Reference/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

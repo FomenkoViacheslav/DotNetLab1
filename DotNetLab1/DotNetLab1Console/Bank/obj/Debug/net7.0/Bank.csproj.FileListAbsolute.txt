@@ -1,0 +1,17 @@
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\Lab1\DotNetLab1\DotNetLab1Console\Bank\bin\Debug\net7.0\Bank.deps.json
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\Lab1\DotNetLab1\DotNetLab1Console\Bank\bin\Debug\net7.0\Bank.dll
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\Lab1\DotNetLab1\DotNetLab1Console\Bank\bin\Debug\net7.0\Bank.pdb
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\Lab1\DotNetLab1\DotNetLab1Console\Bank\obj\Debug\net7.0\Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\Lab1\DotNetLab1\DotNetLab1Console\Bank\obj\Debug\net7.0\Bank.AssemblyInfoInputs.cache
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\Lab1\DotNetLab1\DotNetLab1Console\Bank\obj\Debug\net7.0\Bank.AssemblyInfo.cs
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\Lab1\DotNetLab1\DotNetLab1Console\Bank\obj\Debug\net7.0\Bank.csproj.CoreCompileInputs.cache
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\Lab1\DotNetLab1\DotNetLab1Console\Bank\obj\Debug\net7.0\Bank.dll
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\Lab1\DotNetLab1\DotNetLab1Console\Bank\obj\Debug\net7.0\refint\Bank.dll
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\Lab1\DotNetLab1\DotNetLab1Console\Bank\obj\Debug\net7.0\Bank.pdb
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\Lab1\DotNetLab1\DotNetLab1Console\Bank\obj\Debug\net7.0\ref\Bank.dll
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\Lab1\DotNetLab1\DotNetLab1Console\Bank\bin\Debug\net7.0\AutomatedTellerMachine.dll
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\Lab1\DotNetLab1\DotNetLab1Console\Bank\bin\Debug\net7.0\Account.dll
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\Lab1\DotNetLab1\DotNetLab1Console\Bank\bin\Debug\net7.0\AutomatedTellerMachine.pdb
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\Lab1\DotNetLab1\DotNetLab1Console\Bank\bin\Debug\net7.0\Account.pdb
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\Lab1\DotNetLab1\DotNetLab1Console\Bank\obj\Debug\net7.0\Bank.csproj.AssemblyReference.cache
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\Lab1\DotNetLab1\DotNetLab1Console\Bank\obj\Debug\net7.0\Bank.csproj.CopyComplete
